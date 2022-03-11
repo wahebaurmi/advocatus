@@ -1,0 +1,137 @@
+* {
+  margin: 0px auto;
+  padding: 0px;
+}
+header {
+  background-color: white;
+}
+nav ul li a {
+  color: #111111;
+  padding: 5px 20px;
+}
+.banner {
+  background: url(../img/banner-bg.png) no-repeat;
+  background-size: cover;
+}
+.banner h1 {
+  padding-top: 418px;
+  padding-left: 261px;
+  color: white;
+}
+.banner h5 {
+  color: white;
+  padding-left: 262px;
+  padding-bottom: 100px;
+}
+.btn-one {
+  padding-top: 425px;
+  padding-bottom: 100px;
+}
+.banner-btn {
+  background-color: #e8bf5d;
+  height: 55px;
+  width: 55%;
+  font-size: 22px;
+  color: black;
+  border-radius: 20px;
+}
+/*about section*/
+.about {
+  background: url(../img/about-bg.png) no-repeat;
+  background-size: cover;
+  width: 80%auto;
+}
+.about-title h1 {
+  padding-top: 100px;
+}
+.about-detail {
+  padding-bottom: 100px;
+}
+.about-title p {
+  padding-bottom: 50px;
+  color: #8f8f8f;
+}
+.about-history h4 {
+  padding-bottom: 65px;
+}
+.about-history h5 {
+  padding-bottom: 20px;
+}
+.psec {
+  padding-top: 75px;
+}
+.about-expertise h4 {
+  padding-bottom: 36px;
+}
+.about-expertise p {
+  color: #8f8f8f;
+}
+/*practise section*/
+.practise {
+  background: url(../img/parctis-bg.png) no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.practise-title {
+  color: white;
+}
+.practise-title h1 {
+  padding-top: 60px;
+  padding-left: 150px;
+  font-size: 32px;
+}
+.practise-title p {
+  padding-left: 152px;
+}
+.practise-detail {
+  color: white;
+}
+/*lawyer section*/
+.lawyer-title {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.lawyer-detail {
+  padding-bottom: 70px;
+}
+/*client section*/
+.client {
+  background: url(../img/client-bg.png) no-repeat;
+  background-size: cover;
+}
+.client-title {
+  color: white;
+  padding-top: 80px;
+}
+.client-detail {
+  color: white;
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+.client-text {
+  padding-left: 50px;
+}
+/*recent section*/
+
+/*contact section*/
+.contact-title {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.contact-detail {
+  padding-bottom: 70px;
+}
+.form-control {
+  padding: 20px;
+  margin: 20px;
+  border-top: #111111;
+}
+.send-btn {
+  background-color: #e8bf5d;
+  height: 55px;
+  width: 55%;
+  font-size: 22px;
+  color: black;
+  border-radius: 20px;
+  border-color: #e8bf5d;
+}
